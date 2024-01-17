@@ -1,4 +1,4 @@
-# Dark Clock
+# Simple GUI Clock Using Python ttkbootstrap
 
 A simple dark-themed digital clock GUI built using Python with the ttkbootstrap library for themed widgets.
 
